@@ -12,7 +12,7 @@ main text.
 "eigenvalue_spectrum_theory" is the code used to produce the red lines for the bulk spectrum 
 and to calculate the location of the outliers (red circles) in Fig. 2
 
-"stability_diagram_fig4" and "stability_diagram_fig3b" use the stability in the methods section to 
+"stability_diagram_fig4" and "stability_diagram_fig3b" use the stability crieria discussed in the methods section to 
 construct Figs. 3 and 4.
 
 "maxeiegnvaluevsq" produces the data in Fig 2d of the main text
